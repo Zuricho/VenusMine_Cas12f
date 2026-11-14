@@ -1,0 +1,6 @@
+# Additional dependencies for generating new embeddings, not needed for Step 5.
+numpy>=1.24
+torch>=2.0
+transformers>=4.30,<5
+sentencepiece>=0.1.99
+protobuf>=3.20
